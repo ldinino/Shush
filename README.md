@@ -24,7 +24,7 @@ master/system volume.
 
 ## Requirements
 
-- Windows 10/11 (x64 or Arm64)
+- Windows 10/11 (x64)
 - [.NET 10 Desktop Runtime](https://dotnet.microsoft.com/download/dotnet/10.0) installed
   (the release build is framework-dependent, not self-contained)
 
