@@ -1,0 +1,28 @@
+## .NET build output
+bin/
+obj/
+
+## User-specific / IDE
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Rider / VS Code
+.idea/
+.vscode/
+
+## Test / coverage results
+[Tt]est[Rr]esult*/
+[Cc]overage*/
+*.coverage
+*.coveragexml
+
+## Publish output
+publish/
+*.publish.xml
+
+## OS files
+Thumbs.db
+.DS_Store
